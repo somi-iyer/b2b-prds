@@ -1,6 +1,6 @@
 # PRD: Proactive SLA Breach Alerting for Logistics Ops
 
-**Status:** Draft | **Owner:** [Your Name] | **Domain:** Supply Chain / Logistics SaaS
+**Status:** Draft | **Owner:** [Soumya] | **Domain:** Supply Chain / Logistics SaaS
 
 ## 1. Problem
 
